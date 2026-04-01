@@ -2,9 +2,7 @@ Looking at your draft paper and slides, here's a GitHub README-style structure o
 
 ---
 
-# Million Dollar on the Roof: Development Effects of Solar Energy
-
-**Burgess, Li, Van Reenen, Wang** | LSE / PKU / MIT
+# Rooftop Solar
 
 ---
 
